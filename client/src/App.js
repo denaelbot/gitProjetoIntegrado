@@ -34,7 +34,7 @@ function App() {
               pr: "24px", // keep right padding when drawer closed
             }}
           >
-            <h1>Cadastro de imóveis</h1>
+            <h1>Imóveis React</h1>
           </Toolbar>
         </AppBar>
         <Properties />
